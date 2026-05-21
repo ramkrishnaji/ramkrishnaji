@@ -61,7 +61,7 @@ Multivariate sensor time-series → RUL prediction and pre-failure classificatio
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rk7&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramkrishnaji&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" height="130"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk7&layout=compact&theme=default&hide_border=true&count_private=true" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishnaji&layout=compact&theme=default&hide_border=true&count_private=true" height="130"/>
 </p>
