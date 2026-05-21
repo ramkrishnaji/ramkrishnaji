@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ramkrishnaji&icon=6&color=6)
+![Visitor Count](https://visitcount.itsvg.in/api?id=rk7&icon=6&color=6)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ramkrishnaji.dev-black?style=for-the-badge)](https://portfolio-website-ten-liard-13.vercel.app/)
 
 </div>
@@ -123,6 +123,20 @@ Production portfolio built with Next.js & Tailwind, showcasing AI projects, skil
 ## 🏆 Certifications
 
 [![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=rk7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=rk7&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rk7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
