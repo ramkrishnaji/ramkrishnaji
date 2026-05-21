@@ -1,4 +1,4 @@
-<h1 align="center">Ram Krishna Ji</h1>
+<h1 align="center">Ramkrishnaji</h1>
 
 <p align="center">
   ML Engineer &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; Real-time AI &nbsp;·&nbsp; M.Tech AI & DS @ KJSCE Mumbai
