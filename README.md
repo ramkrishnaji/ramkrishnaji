@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://portfolio-website-ten-liard-13.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/ramkrishnaji/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://medium.com/@ramrocks2002">Medium</a> &nbsp;·&nbsp;
   <a href="mailto:ramkrishnaji03@gmail.com">Email</a>
 </p>
 
