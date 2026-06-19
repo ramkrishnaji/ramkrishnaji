@@ -1,6 +1,6 @@
 <h1 align="center">Ramkrishnaji</h1>
 <p align="center">
-  Data Scientist &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; M.Tech AI & DS @ KJSCE Mumbai
+  Data Science &nbsp;·&nbsp; M.Tech AI & DS @ KJSCE Mumbai
 </p>
 <p align="center">
   <a href="https://portfolio-website-ten-liard-13.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
