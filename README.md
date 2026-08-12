@@ -32,20 +32,6 @@ Currently finishing my M.Tech in AI & Data Science and looking for **data scienc
 
 ---
 
-### [Coffee Chain Expansion Analysis](https://github.com/ramkrishnaji/coffee-expansion-market-analysis-sql) — MySQL · Python
-Normalized schema, 10 analytical queries using CTEs, window functions, and aggregations. Recommended Pune, Delhi, and Jaipur as top expansion cities using revenue, addressable market size, and rent-per-customer ratio as decision criteria.
-
-`MySQL` `Python` `Pandas` `Matplotlib` `Seaborn`
-
----
-
-### [Predictive Maintenance](https://github.com/ramkrishnaji/predictive-maintenance-ml) — LSTM · Scikit-learn · FastAPI
-NASA CMAPSS sensor data → RUL prediction and pre-failure classification. Benchmarked PyTorch LSTM against XGBoost and Random Forest. Deployed via FastAPI inference endpoint.
-
-`PyTorch` `LSTM` `scikit-learn` `FastAPI` `Pandas`
-
----
-
 ## Stack
 **Analytics:** SQL · Power BI · Tableau · DAX · Excel  
 **Python:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
