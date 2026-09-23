@@ -40,7 +40,7 @@ Credit default risk pipeline on 32K+ loan records, handling class imbalance and 
 ---
 
 ## Stack
-**Languages:** Python · SQL · C++  
+**Languages:** Python · SQL  
 **ML/DL:** Scikit-learn · TensorFlow/Keras · XGBoost · SHAP  
 **GenAI:** LangChain · Mistral AI · ChromaDB · RAG  
 **Deployment:** FastAPI · Streamlit · Git · Render  
