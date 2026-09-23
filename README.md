@@ -32,7 +32,7 @@ Text emotion classifier detecting 6 emotions, benchmarking RNN, LSTM, and GRU be
 
 ---
 
-### [Credit Ledger: Credit Risk Assessment using XGBoost & SHAP](https://github.com/ramkrishnaji/credishield) — XGBoost · SHAP · FastAPI
+### [CreditShield : Credit Risk Assessment using XGBoost & SHAP](https://github.com/ramkrishnaji/credishield) — XGBoost · SHAP · FastAPI
 Credit default risk pipeline on 32K+ loan records, handling class imbalance and missing-value imputation via ColumnTransformer. XGBoost tuned via RandomizedSearchCV (92% accuracy, 0.81 F1) with SHAP-based explainability and Platt-calibrated probabilities, served through a FastAPI underwriting dashboard.
 
 `XGBoost` `SHAP` `FastAPI` `Scikit-learn` `Pandas`
