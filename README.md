@@ -1,45 +1,54 @@
 <h1 align="center">Ramkrishnaji</h1>
 <p align="center">
-  Data Science &nbsp;·&nbsp; M.Tech AI & DS @ KJSCE Mumbai
+  Machine Learning &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; M.Tech AI & DS @ KJSCE Mumbai
 </p>
 <p align="center">
-  <!-- <a href="https://portfolio-website-ten-liard-13.vercel.app/">Portfolio</a> &nbsp;·&nbsp; -->
+  <!-- <a href="">Portfolio</a> &nbsp;·&nbsp; -->
   <a href="https://www.linkedin.com/in/ramkrishnaji/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:ramkrishnaji03@gmail.com">Email</a>
 </p>
 
 ---
 
-I work across the full data science stack — from SQL and EDA to predictive modeling and deployment. My projects are built to answer real business questions: where to expand, what's failing, who's churning, and why.
+I build end-to-end ML systems — from data preprocessing and model tuning to deployment behind a live API. My projects span GenAI/RAG, deep learning, and explainable ML for high-stakes decisions like credit risk.
 
-Currently finishing my M.Tech in AI & Data Science and looking for **data science / data analyst internship roles**.
+Currently finishing my M.Tech in AI & Data Science and looking for **AI/ML and Software Engineering internship roles**.
 
 ---
 
 ## Projects
 
-### [Restaurant Operations & Customer Analytics](https://github.com/ramkrishnaji/restaurant-operations-analytics-dashboard) — Power BI · DAX · Python
-200K+ orders, 56K restaurants, Star Schema data model. Identified that 48% of orders breached SLA and traced the highest concentration to BTM Layout (~9.3% of total business). Used Python to catch and fix an 8% column-shifting anomaly before modeling.
+### [AskMyDocs: RAG-based AI Document Assistant](https://github.com/ramkrishnaji/AskMyDocs) — LangChain · Mistral AI · ChromaDB · Streamlit
+RAG pipeline for natural language querying over PDFs. Built with recursive chunking and ChromaDB (MMR retrieval), plus a custom eval framework for semantic similarity and faithfulness. Deployed with real-time ingestion, source citations, and persistent chat history.
 
-`Power BI` `DAX` `Power Query` `Python` `Star Schema`
+`LangChain` `Mistral AI` `ChromaDB` `RAG` `Vector Embeddings` `Streamlit`
 
 ---
 
-### [Taxi Operations Analysis](https://github.com/ramkrishnaji/taxi-riding-analysis) — Power BI · DAX
-150K ride bookings. Built KPIs for cancellation rate, revenue per km, and peak-hour demand. Found that driver-side cancellations (18%) were more than double customer cancellations (7%), traced to dispatch behavior, and produced three operational recommendations.
+### [Moodline: Real-Time Emotion Recognition Engine](https://github.com/ramkrishnaji/EmotionPredictAI) — FastAPI · TensorFlow/Keras · BiGRU
+Text emotion classifier detecting 6 emotions, benchmarking RNN, LSTM, and GRU before selecting a Bidirectional GRU for best performance. Async FastAPI backend with lifespan model pre-loading; deployed on Render via GitHub CI/CD with a JS frontend for real-time predictions.
 
-`Power BI` `DAX` `Power Query`
+`FastAPI` `TensorFlow/Keras` `BiGRU` `REST API` `Render` `JavaScript`
+
+---
+
+### [Credit Ledger: Credit Risk Assessment using XGBoost & SHAP](https://github.com/ramkrishnaji/credishield) — XGBoost · SHAP · FastAPI
+Credit default risk pipeline on 32K+ loan records, handling class imbalance and missing-value imputation via ColumnTransformer. XGBoost tuned via RandomizedSearchCV (92% accuracy, 0.81 F1) with SHAP-based explainability and Platt-calibrated probabilities, served through a FastAPI underwriting dashboard.
+
+`XGBoost` `SHAP` `FastAPI` `Scikit-learn` `Pandas`
 
 ---
 
 ## Stack
-**Analytics:** SQL · Power BI · Tableau · DAX · Excel  
-**Python:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn  
-**ML:** PyTorch · LSTM · Regression · Classification  
-**Infra:** FastAPI · GitHub · Jupyter
+**Languages:** Python · SQL · C++  
+**ML/DL:** Scikit-learn · TensorFlow/Keras · XGBoost · SHAP  
+**GenAI:** LangChain · Mistral AI · ChromaDB · RAG  
+**Deployment:** FastAPI · Streamlit · Git · Render  
+**Cloud:** AWS Certified Cloud Practitioner
 
 ---
 
 ## Currently
-- Building out analytics portfolio targeting business intelligence and data science roles
+- Building out ML/GenAI portfolio targeting AI/ML and SDE internship roles
 - Open to internship conversations — [ramkrishnaji03@gmail.com](mailto:ramkrishnaji03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkrishnaji/)
